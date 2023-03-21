@@ -1,8 +1,9 @@
-# Про этот проект
+# Working with documentation
 
-Цель данной работы — изучить библиотеку и на практических примерах программного кода проиллюстрировать её использование. Использоваться будет библиотека Pandas. Pandas - библиотека, ориентированная на обработке и анализе данных, поэтому для иллюстрации понадобятся исходные данные для анализа.  
+> Goal: to study a library and illustrate its use through practical examples of source code. The Pandas library will be used. Pandas is a library focused on data processing and analysis, so source data for analysis will be needed to illustrate its usage.
 
-## В работе использовались
+
+## Tools and technologies used:
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -10,13 +11,14 @@
 - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-## Используемые данные
+## Data used:
 
-- Данные о пассажирах Титаника, обработав которые через Pandas, в связке с библиотекой sklearn
-- Данные об исследуемой экосистеме в южной Аризоне, которые мы обработаем и визуализируем в связке с библиотекой matplotlib/seaborn
-- Данные о книгах, находящихся в Британской Библиотеке, в которых нужно будет откорректировать некачественные/неверные данные
+- Data on Titanic passengers, which will be processed through Pandas in conjunction with the sklearn library.
+- Data on the studied ecosystem in southern Arizona, which we will process and visualize in conjunction with the matplotlib/seaborn library.
+- Data on books in the British Library that will require correcting poor/incorrect data.
 
-## Проилюстрированные функции
+
+## Illustrated functions and methods
 <table>
     <tr><td><center>read_csv</center></td><td><center>head</center></td>
     <td><center>shape</center></td><td><center>info</center></td>
